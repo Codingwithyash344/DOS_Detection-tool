@@ -1,0 +1,16 @@
+first clone this in linux
+git clone https://github.com/Codingwithyash344/DOS_Detection-tool.git
+
+now cd DOS_Detection-tool open it
+and create a virtual environment
+python -m venv venv
+source venv/bin/activate  
+# On Windows use `venv\Scripts\activate`
+
+install the requirements 
+pip install -r requirements.txt
+
+
+**Run the Tool**:
+   
+   python dos_detector.py
