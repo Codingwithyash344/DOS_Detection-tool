@@ -1,0 +1,5 @@
+dos_attack_detection/
+│
+├── dos_detector.py
+├── requirements.txt
+└── README.md
